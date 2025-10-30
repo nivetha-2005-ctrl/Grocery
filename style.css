@@ -146,9 +146,6 @@ h1 {
   padding: 10px;
   gap: 20px;
 }
-#fruitcard figure {
-  border: solid;
-}
 #keyword {
   padding: 20px;
   display: flex;
